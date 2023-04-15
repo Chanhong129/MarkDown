@@ -1,13 +1,15 @@
 # Markdown Study
 
 ## Header Text
-    # Header 1
 # Header 1
 ## Header 2
 ### Header 3
 #### Header 4
 ##### Header 5
 ###### Header 6
+
+    Block
+
 > Block Quote 1
 > > Block Quote 2
 > > > Block Quote 3
