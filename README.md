@@ -35,7 +35,7 @@
 
 ## Link
      * 사용법     
-     Click \[Google](https://google.com)         
+     Click [Google](https://google.com)         
 
 Click [Google](https://google.com)
 
