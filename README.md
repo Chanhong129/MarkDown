@@ -29,16 +29,14 @@
      > > Block Quote 2      
      > > > Block Quote 3        
 
-- 표시        
 > Block Quote 1
 > > Block Quote 2
 > > > Block Quote 3
 
 ## Link
-- 사용법     
-Click \[Google](https://google.com)         
+     * 사용법     
+     Click \[Google](https://google.com)         
 
-- 표시      
 Click [Google](https://google.com)
 
 ## Font  
