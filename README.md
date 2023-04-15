@@ -8,8 +8,6 @@
       #### Header 4      
       ##### Header 5     
       ###### Header 6      
-
-     * 표시      
 # Header 1
 ## Header 2
 ### Header 3
@@ -18,14 +16,12 @@
 ###### Header 6
 
 ## Block (사용 시 한줄 띄워고 써야함)
-- 사용법     
-\t\t    Block       
-\t\t     Text        
-
-- 표시      
+     * 사용법     
+         Block       
+         Text        
 
       Block
-      Test
+      Text
 
 ## Block Quote (사용 시 한줄 띄워고 써야함)
 - 사용법     
