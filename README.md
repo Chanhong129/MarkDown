@@ -1,7 +1,7 @@
 # Markdown Study
 
 ## Header Text
-'# Header 1
+\# Header 1
 # Header 1
 ## Header 2
 ### Header 3
