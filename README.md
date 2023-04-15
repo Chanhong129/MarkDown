@@ -86,10 +86,10 @@ Console.Write("c# code test");
       - [x] Finish my changes
       - [ ] Push my commits to GitHub
       - [ ] Open a pull request  
-
-[x] One     
-[ ] Two     
-[ ] Three       
+      
+- [x] One     
+- [ ] Two     
+- [ ] Three       
 
 ## Emoji
      * 사용법     
