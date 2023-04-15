@@ -99,7 +99,7 @@ Console.Write("c# code test");
 ```
 
 ## TaskList  (사용 시 한줄 띄워고 써야함)
-      사용법     
+       * 사용법     
       - [x] Finish my changes
       - [ ] Push my commits to GitHub
       - [ ] Open a pull request  
