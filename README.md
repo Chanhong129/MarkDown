@@ -19,8 +19,8 @@
 
 ## Block (사용 시 한줄 띄워고 써야함)
 - 사용법     
-\     Block       
-\     Text        
+\t\t    Block       
+\t\t     Text        
 
 - 표시      
 
