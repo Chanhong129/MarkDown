@@ -1,13 +1,13 @@
 # Markdown Study
 
 ## Header Text
-- 사용법       
-\# Header 1     
-\## Header 2        
-\### Header 3       
-\#### Header 4      
-\##### Header 5     
-\###### Header 6      
+      * 사용법       
+      \# Header 1     
+      \## Header 2        
+      \### Header 3       
+      \#### Header 4      
+      \##### Header 5     
+      \###### Header 6      
 
 - 표시      
 # Header 1
@@ -104,7 +104,7 @@ Console.Write("c# code test");
       - [ ] Push my commits to GitHub
       - [ ] Open a pull request  
 
-- 표시      
+> 표시      
 
 [x] One     
 [ ] Two     
