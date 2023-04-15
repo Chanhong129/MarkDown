@@ -73,10 +73,10 @@ Click [Google](https://google.com)
 
 ## Table
 - 사용법     
-\Header 1| Header 2     
-\--|--      
-\Cell 1 | Cell 2        
-\Cell 1 | Cell 2            
+Header 1| Header 2     
+--|--      
+Cell 1 | Cell 2        
+Cell 1 | Cell 2            
 
 - 표시      
 
@@ -99,9 +99,9 @@ Console.Write("c# code test");
 
 ## Checkbox
 - 사용법     
-\- [x] One      
-\- [ ] Two      
-\- [ ] Three        
+\[x] One      
+\[ ] Two      
+\[ ] Three        
 
 - 표시      
 
@@ -111,7 +111,7 @@ Console.Write("c# code test");
 
 ## Emoji
 - 사용법     
-\:+1:       
+\:+1\:       
 
 - 표시      
 :+1:        
