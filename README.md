@@ -17,16 +17,17 @@
 ##### Header 5
 ###### Header 6
 
-## Block
+## Block (사용 시 한줄 띄워고 써야함)
 - 사용법     
-\   Block       
-\   Text        
+   Block       
+   Text        
 
 - 표시      
+
     Block       
     Text    
 
-## Block Quote
+## Block Quote (사용 시 한줄 띄워고 써야함)
 - 사용법     
 
 \> Block Quote 1        
@@ -71,7 +72,7 @@ Click [Google](https://google.com)
   + list
     - list
 
-## Table
+## Table (사용 시 한줄 띄워고 써야함)
 - 사용법     
 Header 1| Header 2     
 --|--      
@@ -104,14 +105,13 @@ Console.Write("c# code test");
 \[ ] Three        
 
 - 표시      
-
 [x] One     
 [ ] Two     
 [ ] Three       
 
 ## Emoji
 - 사용법     
-\:+1\:       
+\:\+1\:       
 
 - 표시      
 :+1:        
