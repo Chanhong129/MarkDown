@@ -47,23 +47,23 @@ Click [Google](https://google.com)
 
 ## Font  
 - 사용법     
-\**Bold**  
-\*Italic*  
-\**_Italic Bold_**   
-\~~strikethrough~~   
-\<ins>underline</ins>       
+\**Bold**       
+\*Italic*       
+\**_Italic Bold_**          
+\~~strikethrough~~      
+\<ins>underline</ins>           
 
 - 표시      
-**Bold**  
-*Italic*  
-**_Italic Bold_**   
-~~strikethrough~~   
-<ins>underline</ins>  
+**Bold**    
+*Italic*    
+**_Italic Bold_**       
+~~strikethrough~~       
+<ins>underline</ins>    
 
 ## list
 - 사용법     
-\* list
-\  + list
+\* list         
+\  + list       
 \    - list     
 
 - 표시      
@@ -73,12 +73,13 @@ Click [Google](https://google.com)
 
 ## Table
 - 사용법     
-\Header 1| Header 2
-\--|--
-\Cell 1 | Cell 2
+\Header 1| Header 2     
+\--|--      
 \Cell 1 | Cell 2        
+\Cell 1 | Cell 2            
 
 - 표시      
+
 Header 1| Header 2
 --|--
 Cell 1 | Cell 2
@@ -86,22 +87,24 @@ Cell 1 | Cell 2
 
 ## Code
 - 사용법     
-\```c#
-\Console.Write("c# code test");
-\```        
+\```c#      
+\Console.Write("c# code test");     
+\```            
 
 - 표시      
+
 ```c#
 Console.Write("c# code test");
 ```
 
 ## Checkbox
 - 사용법     
-\- [x] One
-\- [ ] Two
-\- [ ] Three
+\- [x] One      
+\- [ ] Two      
+\- [ ] Three        
 
 - 표시      
+
 [x] One
 [ ] Two
 [ ] Three
@@ -111,7 +114,7 @@ Console.Write("c# code test");
 \:+1:       
 
 - 표시      
-:+1:
+:+1:        
 
 ## Image
 - 사용법     
