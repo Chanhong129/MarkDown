@@ -98,13 +98,14 @@ Console.Write("c# code test");
 Console.Write("c# code test");
 ```
 
-## Checkbox
+## Checkbox  (사용 시 한줄 띄워고 써야함)
 - 사용법     
 \[x] One      
 \[ ] Two      
 \[ ] Three        
 
 - 표시      
+
 [x] One     
 [ ] Two     
 [ ] Three       
