@@ -9,6 +9,7 @@
 ###### Header 6
 
     Block
+    Text
 
 > Block Quote 1
 > > Block Quote 2
