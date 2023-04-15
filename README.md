@@ -63,8 +63,8 @@ Click [Google](https://google.com)
 ## list
 - 사용법     
 \* list         
-\  + list       
-\    - list     
+  + list       
+    - list     
 
 - 표시      
 * list
@@ -88,7 +88,7 @@ Cell 1 | Cell 2
 ## Code
 - 사용법     
 \```c#      
-\Console.Write("c# code test");     
+Console.Write("c# code test");     
 \```            
 
 - 표시      
@@ -105,9 +105,9 @@ Console.Write("c# code test");
 
 - 표시      
 
-[x] One
-[ ] Two
-[ ] Three
+[x] One     
+[ ] Two     
+[ ] Three       
 
 ## Emoji
 - 사용법     
