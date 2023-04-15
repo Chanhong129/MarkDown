@@ -8,7 +8,6 @@
       #### Header 4      
       ##### Header 5     
       ###### Header 6      
----
 # Header 1
 ## Header 2
 ### Header 3
@@ -25,11 +24,10 @@
       Text
 
 ## Block Quote (사용 시 한줄 띄워고 써야함)
-- 사용법     
-
-\> Block Quote 1        
-\> > Block Quote 2      
-\> > > Block Quote 3        
+     * 사용법     
+     > Block Quote 1        
+     > > Block Quote 2      
+     > > > Block Quote 3        
 
 - 표시        
 > Block Quote 1
