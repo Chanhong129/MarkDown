@@ -60,7 +60,7 @@ Click [Google](https://google.com)
   + list
     - list
 
-## #Table (사용 시 한줄 띄워고 써야함)
+## #Table
      * 사용법     
      Header 1| Header 2     
      --|--      
@@ -81,7 +81,7 @@ Cell 1 | Cell 2
 Console.Write("c# code test");
 ```
 
-## #TaskList  (사용 시 한줄 띄워고 써야함)
+## #TaskList
        * 사용법     
       - [x] Finish my changes
       - [ ] Push my commits to GitHub
@@ -106,3 +106,6 @@ Console.Write("c# code test");
 ![test_image-description](https://discourse-dotnetdev-upload.ewr1.vultrobjects.com/original/1X/733ba4d0a11f167d295a4a7257e40bcbc93d91bb.png)
 <img src="https://discourse-dotnetdev-upload.ewr1.vultrobjects.com/original/1X/733ba4d0a11f167d295a4a7257e40bcbc93d91bb.png" 
      width="450" height="450" alt="dotNetDev"></img><br/>
+
+## 주의
+다음 줄로 변경하려면 세칸 이상의 공백이 있어야함.
