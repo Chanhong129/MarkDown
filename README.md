@@ -15,7 +15,7 @@
 ##### Header 5
 ###### Header 6
 
-## #Block (사용 시 한줄 띄워고 써야함)
+## #Block
      * 사용법     
          Block       
          Text        
@@ -23,7 +23,7 @@
       Block
       Text
 
-## #Block Quote (사용 시 한줄 띄워고 써야함)
+## #Block Quote
      * 사용법     
      > Block Quote 1        
      > > Block Quote 2      
